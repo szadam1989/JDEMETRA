@@ -1,5 +1,5 @@
 # JDEMETRA
-In 2021 I modified the ODbConnector-master plugin, which I received from the Belgian Statistical Office to insert result data into Oracle database through JDBC Connection.
+In 2021 I modified the ODbConnector-master plugin, which I received from the Belgian National Bank to insert result data into Oracle database through JDBC Connection.
 I also uploaded the received plugin .zip folder, which I modified some source codes in.
 
 Here are the JDEMETRA+ source codes (I did not write any files of them):
